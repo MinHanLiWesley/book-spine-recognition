@@ -1,0 +1,49 @@
+{
+    "type": {
+        "key": "/type/edition"
+    },
+    "title": "Harry Potter e la camera dei segreti Vol II",
+    "authors": [
+        {
+            "key": "/authors/OL23919A"
+        }
+    ],
+    "publish_date": "Mar 08, 2019",
+    "source_records": [
+        "amazon:889381451X"
+    ],
+    "publishers": [
+        "Salani"
+    ],
+    "isbn_10": [
+        "889381451X"
+    ],
+    "isbn_13": [
+        "9788893814515"
+    ],
+    "physical_format": "hardcover",
+    "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter e la camera dei segreti Vol II (Italian Edition)"
+    },
+    "full_title": "Harry Potter e la camera dei segreti Vol II",
+    "covers": [
+        13124714
+    ],
+    "works": [
+        {
+            "key": "/works/OL82537W"
+        }
+    ],
+    "key": "/books/OL45265193M",
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-02T12:21:42.026734"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T17:15:41.568218"
+    }
+}

@@ -1,0 +1,152 @@
+{
+   "_id":{
+      "$oid":"65e35460480ab2e73267611b"
+   },
+   "title":"Qaqavii",
+   "subtitle":"",
+   "author":"Miriam Korner",
+   "foreword":"",
+   "editor":"",
+   "illustrator":"",
+   "creators":[
+      
+   ],
+   "synopsis":" Qaqavii -- set amongst the unforgettable land and people of the vast windswept North. When 15-year-old Emmylou arrives in Churchill, Manitoba, all she can think about is getting out of town before she ends up on the wrong end of a polar bear dinner. But things are rarely what they seem in the North and Emmylou's outlook begins to change -- fast. It all starts when she meets Barnabas, a young Inuk who is training sled dogs for the gruelling Arctic Quest. But her real Northern adventure begins when she falls for a spirited yet unruly puppy by the name of Qaqavii who turns her entire world upside down.",
+   "publisher":[
+      
+   ],
+   "characterEthnicity":[
+      
+   ],
+   "characterGenderIdentity":[
+      
+   ],
+   "characterRaceCulture":[
+      
+   ],
+   "characterReligion":[
+      
+   ],
+   "characterSexualOrientation":[
+      
+   ],
+   "awards":[
+      
+   ],
+   "contentWarning":[
+      
+   ],
+   "timePeriod":[
+      
+   ],
+   "narrativeForm":[
+      "General Formats",
+      "Novels"
+   ],
+   "genre":[
+      "Fiction: Realistic"
+   ],
+   "historicalEvents":[
+      
+   ],
+   "internationalAwards":[
+      
+   ],
+   "language":[
+      
+   ],
+   "languageRegister":[
+      
+   ],
+   "literaryDevices":[
+      
+   ],
+   "modesOfWriting":[
+      "Narrative"
+   ],
+   "pointOfView":[
+      "1st Person"
+   ],
+   "subject":[
+      
+   ],
+   "textFeatures":[
+      "Dedication",
+      "Further Reading",
+      "Interview with the Author",
+      "Maps",
+      "Photographs"
+   ],
+   "textStructure":[
+      
+   ],
+   "topic":[
+      "Adventure & Survival",
+      "Animals",
+      "Discrimination & Prejudice",
+      "Family Situations",
+      "Friendship",
+      "Social Issues",
+      "Sports"
+   ],
+   "voice":[
+      
+   ],
+   "tags":[
+      "15 year old girl",
+      "Arctic",
+      "dog",
+      "race sled dog",
+      "single mother",
+      "Inuk"
+   ],
+   "isFiction":true,
+   "isNonFiction":false,
+   "isBlended":false,
+   "guidedReadingLevel":"",
+   "lexileLevel":"0",
+   "hasMultiplePov":false,
+   "hasUnreliableNarrative":false,
+   "isbn10":[
+      "0889955700"
+   ],
+   "isbn13":[
+      "9780889955707"
+   ],
+   "series":"",
+   "seriesBookNumber":1,
+   "seriesType":"Stand Alone",
+   "defaultEdition":0,
+   "editions":[
+      {
+         "isbn10":"0889955700",
+         "isbn13":"9780889955707",
+         "title":"Qaqavii",
+         "author":"Miriam Korner",
+         "image":"https://cdn.remo.app/images/95/70/9780889955707.jpg",
+         "images":[
+            "https://cdn.remo.app/images/95/70/9780889955707.jpg",
+            "https://cdn.remo.app/legacy/3/1.jpg"
+         ],
+         "pageCount":"392",
+         "wordCount":"0",
+         "pubDate":"2019",
+         "copyrightDate":null,
+         "foreword":"",
+         "synopsis":" Qaqavii -- set amongst the unforgettable land and people of the vast windswept North. When 15-year-old Emmylou arrives in Churchill, Manitoba, all she can think about is getting out of town before she ends up on the wrong end of a polar bear dinner. But things are rarely what they seem in the North and Emmylou's outlook begins to change -- fast. It all starts when she meets Barnabas, a young Inuk who is training sled dogs for the gruelling Arctic Quest. But her real Northern adventure begins when she falls for a spirited yet unruly puppy by the name of Qaqavii who turns her entire world upside down.",
+         "edition":"",
+         "legacy_id":"3",
+         "format":"Paperback",
+         "isUnpaged":false
+      }
+   ],
+   "legacy_id":"3",
+   "created":null,
+   "updated":{
+      "$date":"2024-03-21T01:07:59.206Z"
+   },
+   "pubDate":"",
+   "images":[
+      
+   ]
+}
