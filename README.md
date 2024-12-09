@@ -121,6 +121,10 @@ For detailed Google Cloud Vision setup instructions, visit the [official documen
    ```
 4. Set up required API keys and credentials
 5. Place model files in the appropriate directories
+6. Configure CORS settings:
+   - The backend server runs on `http://localhost:3000`
+   - Frontend should be served from a live server (e.g., VS Code Live Server) at `http://127.0.0.1:5500`
+   - If using different ports, update the CORS configuration in `backend/src/server.js`
 
 ## Usage
 
@@ -168,9 +172,28 @@ output/
 
 ## License
 
-[Add your license information here]
+Apache License 2.0
+
+Copyright 2024 Book Spine Detection System Contributors
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
 ## Contributors
 
-[Add contributor information here]
+- **Min-Han Li** ([@MinHanLiWesley](https://github.com/MinHanLiWesley))
+- **Yuan Kuang** ([@greendress2022](https://github.com/greendress2022))
+- **Jia Lu** ([@luljia0](https://github.com/luljia0))
+- **Willyz** ([@WillzDevs](https://github.com/WillzDevs))
+
+Thank you to all contributors who have helped make this project possible!
 

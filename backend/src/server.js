@@ -9,7 +9,7 @@ const path = require("path")
 // Initialize Express app
 const app = express()
 app.use(cors({
-  origin: 'http://127.0.0.1:5501', // Add your Live Server URL here
+  origin: 'http://127.0.0.1:5050', // Add your Live Server URL here
   credentials: true
 }))
 const PORT = process.env.PORT || 3000
