@@ -1,0 +1,9 @@
+easyocr
+opencv-python
+torch
+ultralytics==8.3.2
+google-cloud-vision
+transformers
+Pillow
+numpy
+matplotlib

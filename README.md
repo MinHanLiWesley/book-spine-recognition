@@ -1,1 +1,0 @@
-# book-spine-recognition

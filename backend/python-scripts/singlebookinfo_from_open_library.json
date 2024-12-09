@@ -1,0 +1,115 @@
+{
+    "author_key": [
+        "OL7062225A"
+    ],
+    "author_name": [
+        "Megan Miranda"
+    ],
+    "cover_edition_key": "OL27309783M",
+    "cover_i": 8781823,
+    "ebook_access": "no_ebook",
+    "ebook_count_i": 0,
+    "edition_count": 3,
+    "edition_key": [
+        "OL28894746M",
+        "OL27309783M",
+        "OL28725296M"
+    ],
+    "first_publish_year": 2019,
+    "format": [
+        "Hardcover"
+    ],
+    "has_fulltext": false,
+    "isbn": [
+        "1982130210",
+        "1786492911",
+        "9781786492913",
+        "1432866176",
+        "9781982130213",
+        "9781432866174"
+    ],
+    "key": "/works/OL20129822W",
+    "language": [
+        "eng"
+    ],
+    "last_modified_i": 1677594249,
+    "lcc": [
+        "PS-3613.00000000.I755"
+    ],
+    "number_of_pages_median": 352,
+    "public_scan_b": false,
+    "publish_date": [
+        "2019"
+    ],
+    "publish_year": [
+        2019
+    ],
+    "publisher": [
+        "Simon & Schuster",
+        "Simon & Schuster, Incorporated",
+        "Wheeler Publishing a part of Gale",
+        "Atlantic Books, Limited"
+    ],
+    "seed": [
+        "/books/OL28894746M",
+        "/books/OL27309783M",
+        "/books/OL28725296M",
+        "/works/OL20129822W",
+        "/authors/OL7062225A",
+        "/subjects/fiction_suspense",
+        "/subjects/maine_fiction",
+        "/subjects/place:littleport",
+        "/subjects/place:maine"
+    ],
+    "title": "The Last House Guest",
+    "title_suggest": "The Last House Guest",
+    "title_sort": "The Last House Guest",
+    "type": "work",
+    "subject": [
+        "Fiction, suspense",
+        "Maine, fiction"
+    ],
+    "place": [
+        "Littleport",
+        "Maine"
+    ],
+    "ratings_count_1": 0,
+    "ratings_count_2": 1,
+    "ratings_count_3": 0,
+    "ratings_count_4": 0,
+    "ratings_count_5": 0,
+    "ratings_average": 2.0,
+    "ratings_sortable": 1.9953405,
+    "ratings_count": 1,
+    "readinglog_count": 16,
+    "want_to_read_count": 15,
+    "currently_reading_count": 0,
+    "already_read_count": 1,
+    "publisher_facet": [
+        "Atlantic Books, Limited",
+        "Simon & Schuster",
+        "Simon & Schuster, Incorporated",
+        "Wheeler Publishing a part of Gale"
+    ],
+    "place_key": [
+        "littleport",
+        "maine"
+    ],
+    "subject_facet": [
+        "Fiction, suspense",
+        "Maine, fiction"
+    ],
+    "_version_": 1795873508491788288,
+    "place_facet": [
+        "Littleport",
+        "Maine"
+    ],
+    "lcc_sort": "PS-3613.00000000.I755",
+    "author_facet": [
+        "OL7062225A Megan Miranda"
+    ],
+    "subject_key": [
+        "fiction_suspense",
+        "maine_fiction"
+    ]
+}

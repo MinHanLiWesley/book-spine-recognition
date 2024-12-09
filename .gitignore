@@ -1,0 +1,86 @@
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+backend/python-scripts/output/
+backend/python-scripts/**/ocr_cache/
+backend/python-scripts/**/gemini_cache/
+backend/python-scripts/**/process_cache/
+
+# Database
+backend/database/*
+
+# realesrgan_portable
+backend/models/realesrgan_portable/*
+
+
+# Model files (if needed to exclude large model files)
+*.pt
+*.pth
+*.h5
+*.model
+*.weights
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Testing
+coverage/
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Production build
+/build
+/dist
+
+# Misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

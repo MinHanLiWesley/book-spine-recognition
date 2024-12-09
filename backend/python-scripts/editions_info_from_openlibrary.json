@@ -1,0 +1,55 @@
+{
+    "publishers": [
+        "Atlantic Books, Limited"
+    ],
+    "source_records": [
+        "bwb:9781786492913",
+        "promise:bwb_daily_pallets_2022-03-17"
+    ],
+    "title": "Last House Guest",
+    "number_of_pages": 336,
+    "isbn_13": [
+        "9781786492913"
+    ],
+    "languages": [
+        {
+            "key": "/languages/eng"
+        }
+    ],
+    "full_title": "Last House Guest",
+    "lc_classifications": [
+        "PS3613.I755"
+    ],
+    "publish_date": "2019",
+    "key": "/books/OL28725296M",
+    "authors": [
+        {
+            "key": "/authors/OL7062225A"
+        }
+    ],
+    "works": [
+        {
+            "key": "/works/OL20129822W"
+        }
+    ],
+    "type": {
+        "key": "/type/edition"
+    },
+    "subjects": [
+        "Fiction, suspense",
+        "Maine, fiction"
+    ],
+    "local_id": [
+        "urn:bwbsku:KQ-503-304"
+    ],
+    "latest_revision": 2,
+    "revision": 2,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-13T16:21:22.837384"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T12:53:54.199247"
+    }
+}

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book Spine Detector</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+    <style>
+      .book-result {
+        background: #f8f9fa;
+        padding: 15px;
+        margin: 10px 0;
+        border-radius: 5px;
+      }
+      .book-result h3 {
+        color: #0d6efd;
+        margin-bottom: 15px;
+      }
+      #result {
+        max-width: 800px;
+        margin: 0 auto;
+      }
+      .container {
+        max-width: 800px;
+        margin: 30px auto;
+        padding: 0 15px;
+      }
+      .annotated-image {
+        position: sticky;
+        top: 0;
+        background: white;
+        padding: 15px 0;
+        z-index: 100;
+      }
+      .annotated-image img {
+        max-width: 100%;
+        height: auto;
+        margin: 15px 0;
+      }
+      .scrollable-results {
+        max-height: 500px;
+        overflow-y: auto;
+        padding: 15px;
+        border: 1px solid #dee2e6;
+        border-radius: 5px;
+        margin-top: 20px;
+      }
+      /* Custom scrollbar styling */
+      .scrollable-results::-webkit-scrollbar {
+        width: 8px;
+      }
+      .scrollable-results::-webkit-scrollbar-track {
+        background: #f1f1f1;
+        border-radius: 4px;
+      }
+      .scrollable-results::-webkit-scrollbar-thumb {
+        background: #888;
+        border-radius: 4px;
+      }
+      .scrollable-results::-webkit-scrollbar-thumb:hover {
+        background: #555;
+      }
+      .book-info {
+        background: #ffffff;
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      }
+      
+      .creators, .series-info {
+        margin: 10px 0;
+        padding: 10px;
+        background: #f8f9fa;
+        border-radius: 4px;
+      }
+      
+      .detected-text pre {
+        background: #f8f9fa;
+        padding: 10px;
+        border-radius: 4px;
+        white-space: pre-wrap;
+        font-size: 0.9em;
+      }
+      
+      .source-info {
+        font-size: 0.9em;
+        color: #6c757d;
+      }
+      
+      .book-cover {
+        padding: 15px;
+        display: flex;
+        justify-content: center;
+      }
+      
+      .book-cover img {
+        width: 100%;
+        height: auto;
+        object-fit: contain;
+      }
+      
+      .book-info {
+        height: 100%;
+      }
+      
+      @media (max-width: 768px) {
+        .col-8 {
+          width: 100%;
+        }
+        .col-4 {
+          width: 100%;
+          margin-top: 15px;
+        }
+      }
+      
+      .original-detection {
+        border-top: 1px solid #dee2e6;
+        padding-top: 10px;
+        margin-top: 10px;
+        font-size: 0.9em;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="text-center mb-4">Book Spine Detector</h1>
+      <form id="uploadForm" class="d-grid gap-4 mx-auto" onsubmit="return false;">
+        <div class="text-center">
+          <input type="file" id="imageInput" accept="image/*" class="form-control" />
+        </div>
+        <div class="text-center">
+          <button
+            id="uploadButton"
+            type="button"
+            class="btn btn-primary"
+            style="width: 300px"
+          >
+            Upload and Process Image
+          </button>
+        </div>
+        <div>
+          <h2>Results:</h2>
+          <div id="result"></div>
+        </div>
+      </form>
+    </div>
+
+    <script src="./index.js" defer></script>
+    <script>
+      console.log('HTML loaded');
+    </script>
+  </body>
+</html>
