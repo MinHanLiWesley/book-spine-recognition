@@ -11,6 +11,11 @@ An AI-powered system that detects and extracts metadata from book spines in imag
 - Intelligent caching system to reduce API costs
 - Web interface for uploading and viewing results
 
+## Demo
+
+![Book Spine Detection Demo](docs/demo.png)
+*The system detects individual book spines and extracts metadata including title and author information*
+
 ## System Requirements
 
 ### Backend Requirements
