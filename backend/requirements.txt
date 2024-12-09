@@ -1,9 +1,21 @@
-easyocr
-opencv-python
+# Core ML and Vision
 torch
+torchvision
 ultralytics==8.3.2
-google-cloud-vision
-transformers
-Pillow
+opencv-python
 numpy
+Pillow
+
+# OCR and Vision APIs
+google-cloud-vision
+google.generativeai
+
+# Image Processing
 matplotlib
+
+# Web and Data
+requests
+python-dotenv
+
+# Utilities
+asyncio

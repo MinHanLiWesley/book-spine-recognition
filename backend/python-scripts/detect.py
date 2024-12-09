@@ -1,10 +1,6 @@
-import cv2
 import numpy as np
 from ultralytics import YOLO
 from google.cloud import vision
-import base64
-from aura_sr import AuraSR
-from paddleocr import PaddleOCR
 import os
 from typing import List, Tuple, Dict, Optional
 import matplotlib.pyplot as plt
