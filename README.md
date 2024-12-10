@@ -16,7 +16,11 @@ An AI-powered system that detects and extracts metadata from book spines in imag
 ![Book Spine Detection Demo](docs/demo.png)
 *The system detects individual book spines and extracts metadata including title and author information*
 
-## System Requirements
+## Pipeline
+
+## System Requirement
+![diagram-export-12-10-2024-1_24_35-PM](https://github.com/user-attachments/assets/18ddcea0-bebc-48f0-b0d9-96c51fe768ee)
+
 
 ### Backend Requirements
 - Python 3.8+
@@ -192,8 +196,8 @@ limitations under the License.
 
 - **Min-Han Li** ([@MinHanLiWesley](https://github.com/MinHanLiWesley))
 - **Yuan Kuang** ([@greendress2022](https://github.com/greendress2022))
-- **Jia Lu** ([@luljia0](https://github.com/luljia0))
-- **Willyz** ([@WillzDevs](https://github.com/WillzDevs))
+- **Lulu Jiao** ([@luljia0](https://github.com/luljia0))
+- **Yue Zhang** ([@WillzDevs](https://github.com/WillzDevs))
 
 Thank you to all contributors who have helped make this project possible!
 
