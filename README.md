@@ -16,12 +16,12 @@ An AI-powered system that detects and extracts metadata from book spines in imag
 ![Book Spine Detection Demo](docs/demo.png)
 *The system detects individual book spines and extracts metadata including title and author information*
 
+
 ## Pipeline
 
-## System Requirement
 ![diagram-export-12-10-2024-1_24_35-PM](https://github.com/user-attachments/assets/18ddcea0-bebc-48f0-b0d9-96c51fe768ee)
 
-
+## System Requirement
 ### Backend Requirements
 - Python 3.8+
 - CUDA-capable GPU (for YOLO detection)
